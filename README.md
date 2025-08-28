@@ -23,7 +23,8 @@ This Power BI dashboard visualizes and forecasts retail sales using the Sample S
 ### 🔗 Connect with Me
 **Anuj Saini**  
 📧 sainianuj1235@gmail.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/Anuj-Saini)
+🔗 [LinkedIn Profile] https://www.linkedin.com/in/anuj-saini-12464a24a/?jobid=1234
+
 
 ---
 
